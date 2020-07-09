@@ -134,10 +134,6 @@
   transition: all .3s;
 }
 
-.slider img:hover {
-  //transform: scale(1.2);
-}
-
 /* Слайдер */
 .slick-slider {
   overflow: hidden;
