@@ -6,5 +6,9 @@ $(document).ready(function() {
     slidesToScroll: 1,
     verticalSwiping: true,
   });
+  $('.slider').slick({
+  	dots: false,
+  	adaptiveHeight: true,
+  })
 
 });
